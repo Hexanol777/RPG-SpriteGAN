@@ -6,6 +6,7 @@ This repo contains a Generative Adversarial Network (GAN) model trained using St
 - **Architecture**: StyleGAN-ada-2
 - **Training Steps**: Almost 300 epochs
 - **FID50k_full Score**: 8.2311772
+- [Link](https://drive.google.com/file/d/1H-rDuNpn8WgjWeFojuLu-r47FxfMjlCY/view?usp=sharing) to the model
 
 ## Training Set Information
 - The training set contains 912 RPG sprites mostly from old games.
@@ -24,9 +25,9 @@ To generate RPG sprites using the trained model, follow these steps:
 
 ## Example Output
 Real Sprites:
-![Real](https://github.com/Hexanol777/RPG-SpriteGAN/blob/main/results/Real.png)
+![Real](https://github.com/Hexanol777/RPG-SpriteGAN/blob/main/Real.png)
 
 Synthesized Sprites:
-![Synthesized](https://github.com/Hexanol777/RPG-SpriteGAN/blob/main/results/Synthesized.png)
+![Synthesized](https://github.com/Hexanol777/RPG-SpriteGAN/blob/main/Synthesized.png)
 
 
